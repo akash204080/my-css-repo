@@ -1,0 +1,63 @@
+h1{
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline;
+    
+}
+.first{
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    font-size: 25px;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px black;
+    margin: 20px 500px 20px;
+    
+}
+
+.second{
+    border: 5px solid black;
+    height: 500px;
+    width: 500px;
+    font-size: 25px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding: 10px;
+    text-align: justify;
+    box-shadow: 10px 10px 10px black;
+    margin: 40px 500px 20px;
+    background-image: url('download\ \(3\).jpeg');
+    
+
+
+}
+img{
+    height: 180px;
+    width: 350px
+}
+.rd{
+    margin: 40px 600px 20px;
+}
+input[type="email"]{
+    border: 5px solid black;
+    height: 30px;
+    width: 300px;
+}
+input[type="password"]{
+    border: 5px solid black;
+    height: 30px;
+    width: 300px;
+}
+
+
+
+
+
+
+
+*{
+    background-color: azure;
+    
+    
+    
+}
